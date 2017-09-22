@@ -2,6 +2,7 @@ var boardView = (function () {
 
     /* Get the location of the spot as an x-y coordinate. You can get this from the specially named slot classes
      * associated with each spot
+     * Manyu Sharma waz here
      */
     var privateGetSpotLocation = function (spot) {
         spot = $(spot);
